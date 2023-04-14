@@ -1,7 +1,7 @@
 # iana-simple-http-systemd
 IANA SYSTEMS - wasm rust http simple server systemd with cargo make.
 
-# Hello World in Rust as a debian package and a systemd service.
+# Rust Wasm Simple Server.
 
 IANA SYSTEMS - Rust Wasm Simple http Server
 
@@ -16,7 +16,7 @@ cargo make serve
 ```
 
 ## Usage
-You can see the status using:
+You can see the status from new terminal window:
 ```sh
 curl http://localhost:3000
 ```
