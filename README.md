@@ -1,5 +1,5 @@
 # iana-simple-http-systemd
-IANA SYSTEMS - wasm rust http simple server systemd with cargo make.
+IANA SYSTEMS - wasm rust http simple server with cargo make.
 
 # Rust Wasm Simple Server.
 
