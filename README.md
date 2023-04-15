@@ -1,4 +1,4 @@
-# iana-simple-http-systemd
+# iana-simple-http
 IANA SYSTEMS - wasm rust http simple server with cargo make.
 
 # Rust Wasm Simple Server.
@@ -20,4 +20,3 @@ You can see the status from new terminal window:
 ```sh
 curl http://localhost:3000
 ```
-
