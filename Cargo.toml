@@ -2,7 +2,7 @@
 name = "ianarust"
 version = "0.1.0"
 edition = "2021"
-authors = ["Jaroslaw Cichon <dev.iana.io>"]
+authors = ["Jaroslaw Cichon <cichy@iana.io>"]
 description = "IANA SYSTEMS - iana's http simple server systemd implementation"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
